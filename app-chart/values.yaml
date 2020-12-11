@@ -51,3 +51,5 @@ tolerations: []
 affinity: {}
 
 pdbMinAvailable: 1
+
+replicaCount: 1
